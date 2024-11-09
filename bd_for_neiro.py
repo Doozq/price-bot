@@ -1,6 +1,5 @@
 import yfinance as yf
 import pandas as pd
-import schedule
 from datetime import datetime
 from predict_script import predict_crypto
 from config import SHORT_ACTIONS
